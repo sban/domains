@@ -1,5 +1,22 @@
 # domains: My operationalization of Halliday's domains of experiences
 
+## If you find my work useful in your research, please consider citing: 
+
+**APA**:
+Andrade, S. B. (2022) Word list for Michael Halliday's domains of experiences. GitHub repository.https://github.com/sban/domains
+
+**LaTex**:
+@misc{Andrade2022,
+  author = {Andrade, Stefan Bastholm},
+  title = {Word list for Michael Halliday's domains of experiences},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/sban/domains}},
+  commit = {}
+}
+
+## Background
 Inspired by Halliday (2004), I distinguish between three overall domains of experience, which, respectively, relate to doing, sensing and being.
 
 The first domain (doing) concerns  experience of the outer world and processes related to actions and events. It concerns doing something in the physical world. This domain is further divided into two types of doing: *material doings* defined as outer processes, and *expressional doings*, defined as manifestations of inner workings.
@@ -16,18 +33,4 @@ Andrade, S. B., & Andersen, D. (2020). Digital story grammar: a quantitative met
 
 
 
-## If you find my work useful in your research, please consider citing: 
 
-**APA**:
-Andrade, S. B. (2022) Word list for Michael Halliday's domains of experiences. GitHub repository.https://github.com/sban/domains
-
-**LaTex**:
-@misc{Andrade2022,
-  author = {Andrade, Stefan Bastholm},
-  title = {Word list for Michael Halliday's domains of experiences},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/sban/domains}},
-  commit = {}
-}
