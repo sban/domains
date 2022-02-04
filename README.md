@@ -8,9 +8,8 @@ The second (doing) domain concerns what we experience as going on inside ourselv
 
 Finally, the third domain (being) concerns the experience of identification and classification; it concerns things in the world of relations. The third domain is divided into two types of being: existential being, conveyed with verbs representing who we are (e.g. ‘I am’) and relational being, defined as representations of what we possess (e.g. ‘I have’).
 
-![Alt text](https://github.com/sban/domains/blob/main/HallidayTransitivity.svg)
-<img src="https://github.com/sban/domains/blob/main/HallidayTransitivity.svg">
 
+![HallidayTransitivity](https://user-images.githubusercontent.com/946320/152521136-54493fa9-128f-443f-83ae-921d0ffdaaf4.svg)
 
 Versions of my operationalization have been used in the following publications:
 
