@@ -1,4 +1,4 @@
-# domains: My operationalization of Halliday's domains of experiences
+# domains: An operationalization of Halliday's domains of experiences
 
 ## If you find my work useful in your research, please consider citing: 
 
