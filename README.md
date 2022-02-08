@@ -23,8 +23,7 @@ The first domain (doing) concerns  experience of the outer world and processes r
 
 The second (being) domain concerns what  the experience of identification and classification; it concerns things in the world of relations. The domain is divided into two types of being: **existential processes**, convey verbs representing action surrounding the main character or object of the story (e.g., "there are..."), and **relational processes** that includes processes of being (e.g., "x is a" or "x is at a"). 
 
-
-Finally, the third domain (sensing) concerns intersubjective experience; it relates to the subject sensing something (an object) in the world of consciousness. This domain is divided into two types.  *Verbal processes* involve all types of processes of saying and communication. *Mental processes* involve actions that are going on inside ourselves and is divided into four subtypes: *perspective* (feeling, sensing), *cognitive* (believing, thinking), *desiderative* (wanting, wishing), and *emotive* (enjoying, hating). 
+Finally, the third domain (sensing) concerns experiences; it relates to the subject sensing something (an object) in the world of consciousness. This domain is divided into two types.  *Verbal processes* involve all types of processes of saying and communication. *Mental processes* involve actions that are going on inside ourselves and is divided into four subtypes: *perspective* (feeling, sensing), *cognitive* (believing, thinking), *desiderative* (wanting, wishing), and *emotive* (enjoying, hating). 
 
 ![HallidayTransitivity](https://user-images.githubusercontent.com/946320/152865685-bedae19d-683b-45af-9dc7-32080dcc1dac.png)
 
