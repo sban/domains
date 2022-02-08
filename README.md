@@ -29,7 +29,7 @@ Finally, the third domain (sensing) concerns experiences; it relates to the subj
 
 Versions of my operationalization have been used in the following publications:
 
-Andrade, S. B., & Andersen, D. (2020). Digital story grammar: a quantitative methodology for narrative analysis. International Journal of Social Research Methodology, 23(4), 405-421.
+Andrade, S. B., & Andersen, D. (2020). Digital story grammar: a quantitative methodology for narrative analysis. *International Journal of Social Research Methodology*, 23(4), 405-421.
 
 
 
