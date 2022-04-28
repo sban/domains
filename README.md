@@ -17,7 +17,7 @@ Andrade, S. B. (2022) Word list for Michael Halliday's domains of experiences. G
 }
 
 ## Background
-Inspired by Halliday (2004), I distinguish between three overall domains of experience, which, respectively, relate to doing, sensing and being.
+Inspired by Halliday (2004), I distinguish between three overall domains of experience, which respectively relate to doing, sensing and being.
 
 The first domain (doing) concerns  experience of the outer world and processes related to actions and events. It concerns doing something in the physical world. This domain is further divided into two types of doing: **material processes** defined as outer processes, and **behavioral processes**, defined as manifestations of inner workings.
 
